@@ -1,5 +1,5 @@
 {
-  "name": "react-state-management-tool",
+  "name": "state-management-tool-nust",
   "version": "1.0.0",
   "description": "This is statement management tool like context API in react",
   "main": "index.js",
