@@ -1,0 +1,19 @@
+{
+  "name": "react-state-management-tool",
+  "version": "1.0.0",
+  "description": "This is statement management tool like context API in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skh1827532/react-state-management-tool.git"
+  },
+  "author": "Sanjay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skh1827532/react-state-management-tool/issues"
+  },
+  "homepage": "https://github.com/skh1827532/react-state-management-tool#readme"
+}
